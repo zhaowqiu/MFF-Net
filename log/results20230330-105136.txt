@@ -1,0 +1,290 @@
+[epoch: 0]
+train_loss: 1.3607
+lr: 0.001000
+accuracy: 75.46
+Precision: 51.35
+recall: 54.68
+F1: 50.59
+IoU: ['75.04', '6.37']
+mean IoU: 40.71
+
+[epoch: 1]
+train_loss: 1.2486
+lr: 0.000995
+accuracy: 81.39
+Precision: 64.35
+recall: 75.49
+F1: 63.33
+IoU: ['79.88', '28.76']
+mean IoU: 54.32
+
+[epoch: 2]
+train_loss: 1.1459
+lr: 0.000991
+accuracy: 84.50
+Precision: 69.45
+recall: 82.41
+F1: 69.02
+IoU: ['82.87', '37.96']
+mean IoU: 60.42
+
+[epoch: 3]
+train_loss: 1.0865
+lr: 0.000986
+accuracy: 86.55
+Precision: 77.38
+recall: 82.06
+F1: 75.90
+IoU: ['84.42', '50.45']
+mean IoU: 67.43
+
+[epoch: 4]
+train_loss: 1.0559
+lr: 0.000982
+accuracy: 86.82
+Precision: 77.14
+recall: 82.90
+F1: 75.90
+IoU: ['84.78', '50.46']
+mean IoU: 67.62
+
+[epoch: 5]
+train_loss: 1.0049
+lr: 0.000977
+accuracy: 87.38
+Precision: 80.52
+recall: 82.43
+F1: 78.61
+IoU: ['85.09', '54.89']
+mean IoU: 69.99
+
+[epoch: 6]
+train_loss: 0.9993
+lr: 0.000973
+accuracy: 88.57
+Precision: 79.74
+recall: 85.85
+F1: 78.85
+IoU: ['86.65', '55.69']
+mean IoU: 71.17
+
+[epoch: 7]
+train_loss: 0.9780
+lr: 0.000968
+accuracy: 88.84
+Precision: 82.96
+recall: 84.48
+F1: 81.19
+IoU: ['86.66', '59.36']
+mean IoU: 73.01
+
+[epoch: 8]
+train_loss: 0.9581
+lr: 0.000964
+accuracy: 88.41
+Precision: 78.77
+recall: 86.25
+F1: 78.10
+IoU: ['86.56', '54.38']
+mean IoU: 70.47
+
+[epoch: 9]
+train_loss: 0.9376
+lr: 0.000959
+accuracy: 90.10
+Precision: 85.09
+recall: 86.19
+F1: 83.43
+IoU: ['88.05', '63.39']
+mean IoU: 75.72
+
+[epoch: 10]
+train_loss: 0.9135
+lr: 0.000955
+accuracy: 89.78
+Precision: 82.10
+recall: 87.36
+F1: 81.25
+IoU: ['87.92', '60.06']
+mean IoU: 73.99
+
+[epoch: 11]
+train_loss: 0.9121
+lr: 0.000950
+accuracy: 89.84
+Precision: 81.30
+recall: 88.31
+F1: 80.79
+IoU: ['88.07', '59.36']
+mean IoU: 73.72
+
+[epoch: 12]
+train_loss: 0.9058
+lr: 0.000946
+accuracy: 89.88
+Precision: 81.60
+recall: 88.14
+F1: 81.01
+IoU: ['88.10', '59.73']
+mean IoU: 73.91
+
+[epoch: 13]
+train_loss: 0.8932
+lr: 0.000941
+accuracy: 90.60
+Precision: 84.64
+recall: 87.66
+F1: 83.48
+IoU: ['88.73', '63.92']
+mean IoU: 76.33
+
+[epoch: 14]
+train_loss: 0.8886
+lr: 0.000936
+accuracy: 89.48
+Precision: 86.42
+recall: 84.46
+F1: 83.97
+IoU: ['87.13', '63.43']
+mean IoU: 75.28
+
+[epoch: 15]
+train_loss: 0.8710
+lr: 0.000932
+accuracy: 90.58
+Precision: 83.56
+recall: 88.42
+F1: 82.77
+IoU: ['88.78', '62.89']
+mean IoU: 75.84
+
+[epoch: 16]
+train_loss: 0.8599
+lr: 0.000927
+accuracy: 90.67
+Precision: 84.52
+recall: 87.91
+F1: 83.45
+IoU: ['88.82', '63.94']
+mean IoU: 76.38
+
+[epoch: 17]
+train_loss: 0.8708
+lr: 0.000923
+accuracy: 90.91
+Precision: 84.96
+recall: 88.21
+F1: 83.91
+IoU: ['89.08', '64.79']
+mean IoU: 76.94
+
+[epoch: 18]
+train_loss: 0.8429
+lr: 0.000918
+accuracy: 91.17
+Precision: 84.53
+recall: 89.29
+F1: 83.83
+IoU: ['89.45', '64.93']
+mean IoU: 77.19
+
+[epoch: 19]
+train_loss: 0.8308
+lr: 0.000914
+accuracy: 91.54
+Precision: 86.12
+recall: 89.02
+F1: 85.11
+IoU: ['89.79', '67.05']
+mean IoU: 78.42
+
+[epoch: 20]
+train_loss: 0.8411
+lr: 0.000909
+accuracy: 91.64
+Precision: 87.53
+recall: 88.32
+F1: 86.07
+IoU: ['89.80', '68.36']
+mean IoU: 79.08
+
+[epoch: 21]
+train_loss: 0.8151
+lr: 0.000905
+accuracy: 91.43
+Precision: 87.64
+recall: 87.79
+F1: 86.00
+IoU: ['89.52', '68.01']
+mean IoU: 78.76
+
+[epoch: 22]
+train_loss: 0.8080
+lr: 0.000900
+accuracy: 90.99
+Precision: 84.75
+recall: 88.60
+F1: 83.83
+IoU: ['89.20', '64.76']
+mean IoU: 76.98
+
+[epoch: 23]
+train_loss: 0.7981
+lr: 0.000895
+accuracy: 90.91
+Precision: 88.07
+recall: 86.54
+F1: 85.95
+IoU: ['88.81', '67.29']
+mean IoU: 78.05
+
+[epoch: 24]
+train_loss: 0.7951
+lr: 0.000891
+accuracy: 91.59
+Precision: 86.94
+recall: 88.57
+F1: 85.66
+IoU: ['89.78', '67.81']
+mean IoU: 78.80
+
+[epoch: 25]
+train_loss: 0.8123
+lr: 0.000886
+accuracy: 88.13
+Precision: 86.20
+recall: 82.38
+F1: 83.09
+IoU: ['85.40', '61.12']
+mean IoU: 73.26
+
+[epoch: 26]
+train_loss: 0.7820
+lr: 0.000882
+accuracy: 91.48
+Precision: 88.26
+recall: 87.60
+F1: 86.44
+IoU: ['89.54', '68.58']
+mean IoU: 79.06
+
+[epoch: 27]
+train_loss: 0.7739
+lr: 0.000877
+accuracy: 92.16
+Precision: 86.62
+recall: 90.28
+F1: 85.88
+IoU: ['90.52', '68.77']
+mean IoU: 79.65
+
+[epoch: 28]
+train_loss: 0.7746
+lr: 0.000872
+accuracy: 92.11
+Precision: 86.96
+recall: 89.87
+F1: 86.05
+IoU: ['90.44', '68.94']
+mean IoU: 79.69
+

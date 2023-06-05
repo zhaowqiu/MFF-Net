@@ -1,0 +1,1530 @@
+[epoch: 47]
+train_loss: 0.5923
+lr: 0.000785
+accuracy: 93.79
+Precision: 89.52
+recall: 92.34
+F1: 88.90
+IoU: ['92.39', '74.83']
+mean IoU: 83.61
+
+[epoch: 48]
+train_loss: 0.5772
+lr: 0.000780
+accuracy: 93.31
+Precision: 89.24
+recall: 91.25
+F1: 88.36
+IoU: ['91.79', '73.40']
+mean IoU: 82.60
+
+[epoch: 49]
+train_loss: 0.5766
+lr: 0.000775
+accuracy: 93.29
+Precision: 90.16
+recall: 90.55
+F1: 88.90
+IoU: ['91.70', '73.95']
+mean IoU: 82.83
+
+[epoch: 50]
+train_loss: 0.5780
+lr: 0.000771
+accuracy: 93.51
+Precision: 88.09
+recall: 92.88
+F1: 87.84
+IoU: ['92.12', '73.13']
+mean IoU: 82.63
+
+[epoch: 51]
+train_loss: 0.5813
+lr: 0.000766
+accuracy: 93.15
+Precision: 88.47
+recall: 91.46
+F1: 87.77
+IoU: ['91.64', '72.48']
+mean IoU: 82.06
+
+[epoch: 52]
+train_loss: 0.5702
+lr: 0.000761
+accuracy: 91.49
+Precision: 88.74
+recall: 87.40
+F1: 86.76
+IoU: ['89.50', '68.95']
+mean IoU: 79.23
+
+[epoch: 53]
+train_loss: 0.5790
+lr: 0.000757
+accuracy: 93.79
+Precision: 88.08
+recall: 93.75
+F1: 88.07
+IoU: ['92.46', '73.83']
+mean IoU: 83.15
+
+[epoch: 54]
+train_loss: 0.5664
+lr: 0.000752
+accuracy: 93.47
+Precision: 90.16
+recall: 90.99
+F1: 89.04
+IoU: ['91.94', '74.41']
+mean IoU: 83.18
+
+[epoch: 55]
+train_loss: 0.5655
+lr: 0.000747
+accuracy: 93.48
+Precision: 89.72
+recall: 91.34
+F1: 88.78
+IoU: ['91.98', '74.15']
+mean IoU: 83.07
+
+[epoch: 56]
+train_loss: 0.5771
+lr: 0.000743
+accuracy: 93.53
+Precision: 89.78
+recall: 91.40
+F1: 88.85
+IoU: ['92.04', '74.31']
+mean IoU: 83.17
+
+[epoch: 57]
+train_loss: 0.5668
+lr: 0.000738
+accuracy: 93.56
+Precision: 90.48
+recall: 90.99
+F1: 89.30
+IoU: ['92.03', '74.84']
+mean IoU: 83.44
+
+[epoch: 58]
+train_loss: 0.5620
+lr: 0.000733
+accuracy: 93.68
+Precision: 90.73
+recall: 91.10
+F1: 89.54
+IoU: ['92.17', '75.29']
+mean IoU: 83.73
+
+[epoch: 59]
+train_loss: 0.5630
+lr: 0.000729
+accuracy: 93.32
+Precision: 89.98
+recall: 90.75
+F1: 88.82
+IoU: ['91.76', '73.92']
+mean IoU: 82.84
+
+[epoch: 60]
+train_loss: 0.5508
+lr: 0.000724
+accuracy: 93.09
+Precision: 89.41
+recall: 90.58
+F1: 88.29
+IoU: ['91.51', '72.98']
+mean IoU: 82.25
+
+[epoch: 61]
+train_loss: 0.5441
+lr: 0.000719
+accuracy: 93.29
+Precision: 90.04
+recall: 90.63
+F1: 88.83
+IoU: ['91.72', '73.88']
+mean IoU: 82.80
+
+[epoch: 62]
+train_loss: 0.5555
+lr: 0.000715
+accuracy: 93.45
+Precision: 91.10
+recall: 90.36
+F1: 89.61
+IoU: ['91.86', '74.96']
+mean IoU: 83.41
+
+[epoch: 63]
+train_loss: 0.5424
+lr: 0.000710
+accuracy: 92.95
+Precision: 89.94
+recall: 89.90
+F1: 88.52
+IoU: ['91.29', '73.00']
+mean IoU: 82.15
+
+[epoch: 64]
+train_loss: 0.5455
+lr: 0.000705
+accuracy: 93.75
+Precision: 89.98
+recall: 91.83
+F1: 89.14
+IoU: ['92.31', '75.01']
+mean IoU: 83.66
+
+[epoch: 65]
+train_loss: 0.5460
+lr: 0.000701
+accuracy: 94.09
+Precision: 90.61
+recall: 92.21
+F1: 89.78
+IoU: ['92.70', '76.28']
+mean IoU: 84.49
+
+[epoch: 66]
+train_loss: 0.5382
+lr: 0.000696
+accuracy: 93.11
+Precision: 90.09
+recall: 90.17
+F1: 88.73
+IoU: ['91.48', '73.47']
+mean IoU: 82.47
+
+[epoch: 67]
+train_loss: 0.5390
+lr: 0.000691
+accuracy: 93.73
+Precision: 89.40
+recall: 92.26
+F1: 88.79
+IoU: ['92.32', '74.59']
+mean IoU: 83.45
+
+[epoch: 68]
+train_loss: 0.5371
+lr: 0.000686
+accuracy: 93.95
+Precision: 90.24
+recall: 92.14
+F1: 89.45
+IoU: ['92.54', '75.68']
+mean IoU: 84.11
+
+[epoch: 69]
+train_loss: 0.5255
+lr: 0.000682
+accuracy: 94.44
+Precision: 90.08
+recall: 93.67
+F1: 89.76
+IoU: ['93.17', '76.92']
+mean IoU: 85.05
+
+[epoch: 70]
+train_loss: 0.5599
+lr: 0.000677
+accuracy: 92.61
+Precision: 89.29
+recall: 89.50
+F1: 87.87
+IoU: ['90.89', '71.76']
+mean IoU: 81.33
+
+[epoch: 71]
+train_loss: 0.5337
+lr: 0.000672
+accuracy: 93.58
+Precision: 89.92
+recall: 91.42
+F1: 88.97
+IoU: ['92.09', '74.52']
+mean IoU: 83.31
+
+[epoch: 72]
+train_loss: 0.5176
+lr: 0.000668
+accuracy: 94.13
+Precision: 89.34
+recall: 93.49
+F1: 89.08
+IoU: ['92.83', '75.61']
+mean IoU: 84.22
+
+[epoch: 73]
+train_loss: 0.5257
+lr: 0.000663
+accuracy: 93.69
+Precision: 90.31
+recall: 91.43
+F1: 89.30
+IoU: ['92.21', '75.06']
+mean IoU: 83.64
+
+[epoch: 74]
+train_loss: 0.5175
+lr: 0.000658
+accuracy: 94.11
+Precision: 90.92
+recall: 92.03
+F1: 89.99
+IoU: ['92.71', '76.53']
+mean IoU: 84.62
+
+[epoch: 75]
+train_loss: 0.5346
+lr: 0.000653
+accuracy: 93.07
+Precision: 90.93
+recall: 89.62
+F1: 89.24
+IoU: ['91.38', '73.92']
+mean IoU: 82.65
+
+[epoch: 76]
+train_loss: 0.5255
+lr: 0.000649
+accuracy: 94.07
+Precision: 89.78
+recall: 92.89
+F1: 89.28
+IoU: ['92.73', '75.73']
+mean IoU: 84.23
+
+[epoch: 77]
+train_loss: 0.5248
+lr: 0.000644
+accuracy: 93.62
+Precision: 90.14
+recall: 91.37
+F1: 89.14
+IoU: ['92.13', '74.78']
+mean IoU: 83.45
+
+[epoch: 78]
+train_loss: 0.5160
+lr: 0.000639
+accuracy: 93.28
+Precision: 89.02
+recall: 91.34
+F1: 88.20
+IoU: ['91.77', '73.18']
+mean IoU: 82.47
+
+[epoch: 79]
+train_loss: 0.5090
+lr: 0.000634
+accuracy: 93.77
+Precision: 90.24
+recall: 91.68
+F1: 89.31
+IoU: ['92.31', '75.21']
+mean IoU: 83.76
+
+[epoch: 80]
+train_loss: 0.5171
+lr: 0.000630
+accuracy: 94.58
+Precision: 91.16
+recall: 93.09
+F1: 90.50
+IoU: ['93.30', '77.97']
+mean IoU: 85.63
+
+[epoch: 81]
+train_loss: 0.5164
+lr: 0.000625
+accuracy: 94.19
+Precision: 90.99
+recall: 92.20
+F1: 90.09
+IoU: ['92.81', '76.80']
+mean IoU: 84.80
+
+[epoch: 82]
+train_loss: 0.5083
+lr: 0.000620
+accuracy: 94.18
+Precision: 89.87
+recall: 93.11
+F1: 89.42
+IoU: ['92.86', '76.07']
+mean IoU: 84.46
+
+[epoch: 83]
+train_loss: 0.5244
+lr: 0.000615
+accuracy: 93.98
+Precision: 90.13
+recall: 92.34
+F1: 89.42
+IoU: ['92.60', '75.72']
+mean IoU: 84.16
+
+[epoch: 84]
+train_loss: 0.5237
+lr: 0.000610
+accuracy: 93.98
+Precision: 90.61
+recall: 91.94
+F1: 89.70
+IoU: ['92.56', '76.00']
+mean IoU: 84.28
+
+[epoch: 85]
+train_loss: 0.5131
+lr: 0.000606
+accuracy: 93.42
+Precision: 90.21
+recall: 90.84
+F1: 89.04
+IoU: ['91.88', '74.33']
+mean IoU: 83.10
+
+[epoch: 86]
+train_loss: 0.5068
+lr: 0.000601
+accuracy: 93.89
+Precision: 90.74
+recall: 91.62
+F1: 89.71
+IoU: ['92.44', '75.85']
+mean IoU: 84.15
+
+[epoch: 87]
+train_loss: 0.5046
+lr: 0.000596
+accuracy: 94.66
+Precision: 90.56
+recall: 93.85
+F1: 90.22
+IoU: ['93.43', '77.84']
+mean IoU: 85.63
+
+[epoch: 88]
+train_loss: 0.5118
+lr: 0.000591
+accuracy: 93.65
+Precision: 90.90
+recall: 90.93
+F1: 89.63
+IoU: ['92.13', '75.33']
+mean IoU: 83.73
+
+[epoch: 89]
+train_loss: 0.5041
+lr: 0.000587
+accuracy: 93.41
+Precision: 89.01
+recall: 91.72
+F1: 88.30
+IoU: ['91.94', '73.50']
+mean IoU: 82.72
+
+[epoch: 90]
+train_loss: 0.5108
+lr: 0.000582
+accuracy: 93.67
+Precision: 89.79
+recall: 91.76
+F1: 88.97
+IoU: ['92.21', '74.67']
+mean IoU: 83.44
+
+[epoch: 91]
+train_loss: 0.4957
+lr: 0.000577
+accuracy: 94.43
+Precision: 90.53
+recall: 93.22
+F1: 90.01
+IoU: ['93.14', '77.17']
+mean IoU: 85.16
+
+[epoch: 92]
+train_loss: 0.4887
+lr: 0.000572
+accuracy: 94.34
+Precision: 90.60
+recall: 92.91
+F1: 89.99
+IoU: ['93.03', '76.98']
+mean IoU: 85.00
+
+[epoch: 93]
+train_loss: 0.4959
+lr: 0.000567
+accuracy: 94.82
+Precision: 91.37
+recall: 93.57
+F1: 90.82
+IoU: ['93.59', '78.77']
+mean IoU: 86.18
+
+[epoch: 94]
+train_loss: 0.4976
+lr: 0.000562
+accuracy: 94.51
+Precision: 90.07
+recall: 93.90
+F1: 89.82
+IoU: ['93.27', '77.12']
+mean IoU: 85.19
+
+[epoch: 95]
+train_loss: 0.4995
+lr: 0.000558
+accuracy: 94.56
+Precision: 91.79
+recall: 92.53
+F1: 90.85
+IoU: ['93.24', '78.25']
+mean IoU: 85.75
+
+[epoch: 96]
+train_loss: 0.5026
+lr: 0.000553
+accuracy: 94.05
+Precision: 91.45
+recall: 91.50
+F1: 90.26
+IoU: ['92.60', '76.67']
+mean IoU: 84.64
+
+[epoch: 97]
+train_loss: 0.5041
+lr: 0.000548
+accuracy: 94.11
+Precision: 90.91
+recall: 92.05
+F1: 89.98
+IoU: ['92.71', '76.53']
+mean IoU: 84.62
+
+[epoch: 98]
+train_loss: 0.4898
+lr: 0.000543
+accuracy: 94.55
+Precision: 91.32
+recall: 92.86
+F1: 90.57
+IoU: ['93.24', '77.95']
+mean IoU: 85.60
+
+[epoch: 99]
+train_loss: 0.4910
+lr: 0.000538
+accuracy: 94.38
+Precision: 91.02
+recall: 92.65
+F1: 90.25
+IoU: ['93.04', '77.31']
+mean IoU: 85.17
+
+[epoch: 100]
+train_loss: 0.4956
+lr: 0.000533
+accuracy: 94.38
+Precision: 91.32
+recall: 92.41
+F1: 90.44
+IoU: ['93.03', '77.49']
+mean IoU: 85.26
+
+[epoch: 101]
+train_loss: 0.4808
+lr: 0.000529
+accuracy: 94.26
+Precision: 91.28
+recall: 92.15
+F1: 90.32
+IoU: ['92.88', '77.15']
+mean IoU: 85.01
+
+[epoch: 102]
+train_loss: 0.4893
+lr: 0.000524
+accuracy: 94.31
+Precision: 91.04
+recall: 92.45
+F1: 90.21
+IoU: ['92.95', '77.13']
+mean IoU: 85.04
+
+[epoch: 103]
+train_loss: 0.4833
+lr: 0.000519
+accuracy: 93.99
+Precision: 91.25
+recall: 91.50
+F1: 90.10
+IoU: ['92.54', '76.41']
+mean IoU: 84.48
+
+[epoch: 104]
+train_loss: 0.4872
+lr: 0.000514
+accuracy: 94.46
+Precision: 90.67
+recall: 93.19
+F1: 90.12
+IoU: ['93.17', '77.35']
+mean IoU: 85.26
+
+[epoch: 105]
+train_loss: 0.4808
+lr: 0.000509
+accuracy: 94.10
+Precision: 90.14
+recall: 92.64
+F1: 89.51
+IoU: ['92.74', '76.02']
+mean IoU: 84.38
+
+[epoch: 106]
+train_loss: 0.4970
+lr: 0.000504
+accuracy: 93.74
+Precision: 90.09
+recall: 91.73
+F1: 89.20
+IoU: ['92.29', '75.06']
+mean IoU: 83.68
+
+[epoch: 107]
+train_loss: 0.4904
+lr: 0.000499
+accuracy: 94.78
+Precision: 91.39
+recall: 93.43
+F1: 90.80
+IoU: ['93.54', '78.66']
+mean IoU: 86.10
+
+[epoch: 108]
+train_loss: 0.4886
+lr: 0.000495
+accuracy: 94.01
+Precision: 90.88
+recall: 91.82
+F1: 89.88
+IoU: ['92.58', '76.24']
+mean IoU: 84.41
+
+[epoch: 109]
+train_loss: 0.4826
+lr: 0.000490
+accuracy: 94.66
+Precision: 91.24
+recall: 93.22
+F1: 90.61
+IoU: ['93.39', '78.22']
+mean IoU: 85.80
+
+[epoch: 110]
+train_loss: 0.4756
+lr: 0.000485
+accuracy: 94.31
+Precision: 91.12
+recall: 92.39
+F1: 90.26
+IoU: ['92.95', '77.18']
+mean IoU: 85.06
+
+[epoch: 111]
+train_loss: 0.4871
+lr: 0.000480
+accuracy: 94.06
+Precision: 90.67
+recall: 92.10
+F1: 89.80
+IoU: ['92.66', '76.25']
+mean IoU: 84.46
+
+[epoch: 112]
+train_loss: 0.4755
+lr: 0.000475
+accuracy: 94.28
+Precision: 90.68
+recall: 92.68
+F1: 89.98
+IoU: ['92.94', '76.85']
+mean IoU: 84.90
+
+[epoch: 113]
+train_loss: 0.4807
+lr: 0.000470
+accuracy: 94.15
+Precision: 88.92
+recall: 93.98
+F1: 88.86
+IoU: ['92.87', '75.38']
+mean IoU: 84.12
+
+[epoch: 114]
+train_loss: 0.4836
+lr: 0.000465
+accuracy: 93.62
+Precision: 91.20
+recall: 90.67
+F1: 89.79
+IoU: ['92.06', '75.43']
+mean IoU: 83.75
+
+[epoch: 115]
+train_loss: 0.4789
+lr: 0.000460
+accuracy: 93.22
+Precision: 91.07
+recall: 89.86
+F1: 89.43
+IoU: ['91.56', '74.36']
+mean IoU: 82.96
+
+[epoch: 116]
+train_loss: 0.4772
+lr: 0.000455
+accuracy: 94.81
+Precision: 91.13
+recall: 93.75
+F1: 90.67
+IoU: ['93.59', '78.59']
+mean IoU: 86.09
+
+[epoch: 117]
+train_loss: 0.4737
+lr: 0.000450
+accuracy: 94.07
+Precision: 91.77
+recall: 91.36
+F1: 90.48
+IoU: ['92.61', '76.93']
+mean IoU: 84.77
+
+[epoch: 118]
+train_loss: 0.4793
+lr: 0.000445
+accuracy: 93.86
+Precision: 91.16
+recall: 91.26
+F1: 89.94
+IoU: ['92.38', '76.02']
+mean IoU: 84.20
+
+[epoch: 119]
+train_loss: 0.4733
+lr: 0.000440
+accuracy: 94.14
+Precision: 88.80
+recall: 94.09
+F1: 88.78
+IoU: ['92.86', '75.28']
+mean IoU: 84.07
+
+[epoch: 120]
+train_loss: 0.4640
+lr: 0.000435
+accuracy: 93.74
+Precision: 91.28
+recall: 90.89
+F1: 89.92
+IoU: ['92.21', '75.77']
+mean IoU: 83.99
+
+[epoch: 121]
+train_loss: 0.4675
+lr: 0.000430
+accuracy: 94.87
+Precision: 92.04
+recall: 93.12
+F1: 91.25
+IoU: ['93.62', '79.26']
+mean IoU: 86.44
+
+[epoch: 122]
+train_loss: 0.4760
+lr: 0.000425
+accuracy: 94.43
+Precision: 92.13
+recall: 91.97
+F1: 90.96
+IoU: ['93.05', '78.09']
+mean IoU: 85.57
+
+[epoch: 123]
+train_loss: 0.4621
+lr: 0.000420
+accuracy: 94.07
+Precision: 90.78
+recall: 92.05
+F1: 89.88
+IoU: ['92.67', '76.35']
+mean IoU: 84.51
+
+[epoch: 124]
+train_loss: 0.4569
+lr: 0.000416
+accuracy: 94.08
+Precision: 90.55
+recall: 92.24
+F1: 89.74
+IoU: ['92.69', '76.23']
+mean IoU: 84.46
+
+[epoch: 125]
+train_loss: 0.4702
+lr: 0.000411
+accuracy: 94.53
+Precision: 90.03
+recall: 94.00
+F1: 89.81
+IoU: ['93.29', '77.16']
+mean IoU: 85.23
+
+[epoch: 126]
+train_loss: 0.4877
+lr: 0.000406
+accuracy: 94.33
+Precision: 90.85
+recall: 92.66
+F1: 90.12
+IoU: ['92.99', '77.08']
+mean IoU: 85.04
+
+[epoch: 127]
+train_loss: 0.4694
+lr: 0.000401
+accuracy: 94.82
+Precision: 90.92
+recall: 93.97
+F1: 90.56
+IoU: ['93.61', '78.51']
+mean IoU: 86.06
+
+[epoch: 128]
+train_loss: 0.4656
+lr: 0.000396
+accuracy: 94.61
+Precision: 91.35
+recall: 92.99
+F1: 90.63
+IoU: ['93.32', '78.14']
+mean IoU: 85.73
+
+[epoch: 129]
+train_loss: 0.4693
+lr: 0.000390
+accuracy: 94.52
+Precision: 91.08
+recall: 92.98
+F1: 90.40
+IoU: ['93.22', '77.74']
+mean IoU: 85.48
+
+[epoch: 130]
+train_loss: 0.4693
+lr: 0.000385
+accuracy: 94.35
+Precision: 89.87
+recall: 93.62
+F1: 89.57
+IoU: ['93.08', '76.56']
+mean IoU: 84.82
+
+[epoch: 131]
+train_loss: 0.4660
+lr: 0.000380
+accuracy: 94.63
+Precision: 91.22
+recall: 93.17
+F1: 90.57
+IoU: ['93.36', '78.13']
+mean IoU: 85.74
+
+[epoch: 132]
+train_loss: 0.4560
+lr: 0.000375
+accuracy: 94.78
+Precision: 91.10
+recall: 93.67
+F1: 90.63
+IoU: ['93.55', '78.48']
+mean IoU: 86.01
+
+[epoch: 133]
+train_loss: 0.4699
+lr: 0.000370
+accuracy: 94.62
+Precision: 91.71
+recall: 92.73
+F1: 90.85
+IoU: ['93.31', '78.37']
+mean IoU: 85.84
+
+[epoch: 134]
+train_loss: 0.4622
+lr: 0.000365
+accuracy: 94.03
+Precision: 90.05
+recall: 92.54
+F1: 89.41
+IoU: ['92.66', '75.80']
+mean IoU: 84.23
+
+[epoch: 135]
+train_loss: 0.4642
+lr: 0.000360
+accuracy: 94.55
+Precision: 91.23
+recall: 92.93
+F1: 90.52
+IoU: ['93.25', '77.90']
+mean IoU: 85.58
+
+[epoch: 136]
+train_loss: 0.4723
+lr: 0.000355
+accuracy: 94.65
+Precision: 91.28
+recall: 93.17
+F1: 90.63
+IoU: ['93.38', '78.23']
+mean IoU: 85.80
+
+[epoch: 137]
+train_loss: 0.4617
+lr: 0.000350
+accuracy: 94.10
+Precision: 90.99
+recall: 91.97
+F1: 90.02
+IoU: ['92.69', '76.55']
+mean IoU: 84.62
+
+[epoch: 138]
+train_loss: 0.4555
+lr: 0.000345
+accuracy: 93.67
+Precision: 91.45
+recall: 90.65
+F1: 89.99
+IoU: ['92.12', '75.72']
+mean IoU: 83.92
+
+[epoch: 139]
+train_loss: 0.4587
+lr: 0.000340
+accuracy: 94.16
+Precision: 91.33
+recall: 91.86
+F1: 90.27
+IoU: ['92.75', '76.90']
+mean IoU: 84.83
+
+[epoch: 140]
+train_loss: 0.4491
+lr: 0.000335
+accuracy: 94.24
+Precision: 91.17
+recall: 92.19
+F1: 90.24
+IoU: ['92.87', '77.03']
+mean IoU: 84.95
+
+[epoch: 141]
+train_loss: 0.4556
+lr: 0.000330
+accuracy: 94.63
+Precision: 90.36
+recall: 93.98
+F1: 90.08
+IoU: ['93.41', '77.64']
+mean IoU: 85.52
+
+[epoch: 142]
+train_loss: 0.4555
+lr: 0.000325
+accuracy: 94.96
+Precision: 91.41
+recall: 93.90
+F1: 90.95
+IoU: ['93.76', '79.17']
+mean IoU: 86.46
+
+[epoch: 143]
+train_loss: 0.4560
+lr: 0.000319
+accuracy: 94.70
+Precision: 91.23
+recall: 93.35
+F1: 90.64
+IoU: ['93.45', '78.33']
+mean IoU: 85.89
+
+[epoch: 144]
+train_loss: 0.4517
+lr: 0.000314
+accuracy: 94.55
+Precision: 90.21
+recall: 93.88
+F1: 89.93
+IoU: ['93.31', '77.32']
+mean IoU: 85.31
+
+[epoch: 145]
+train_loss: 0.4447
+lr: 0.000309
+accuracy: 94.63
+Precision: 91.07
+recall: 93.29
+F1: 90.49
+IoU: ['93.36', '78.05']
+mean IoU: 85.71
+
+[epoch: 146]
+train_loss: 0.4473
+lr: 0.000304
+accuracy: 94.23
+Precision: 90.69
+recall: 92.52
+F1: 89.94
+IoU: ['92.87', '76.71']
+mean IoU: 84.79
+
+[epoch: 147]
+train_loss: 0.4488
+lr: 0.000299
+accuracy: 94.28
+Precision: 91.72
+recall: 91.89
+F1: 90.60
+IoU: ['92.89', '77.46']
+mean IoU: 85.17
+
+[epoch: 148]
+train_loss: 0.4504
+lr: 0.000294
+accuracy: 94.84
+Precision: 91.99
+recall: 93.09
+F1: 91.19
+IoU: ['93.58', '79.15']
+mean IoU: 86.36
+
+[epoch: 149]
+train_loss: 0.4529
+lr: 0.000288
+accuracy: 94.45
+Precision: 90.72
+recall: 93.10
+F1: 90.14
+IoU: ['93.15', '77.33']
+mean IoU: 85.24
+
+[epoch: 150]
+train_loss: 0.4542
+lr: 0.000283
+accuracy: 94.41
+Precision: 91.41
+recall: 92.42
+F1: 90.51
+IoU: ['93.06', '77.62']
+mean IoU: 85.34
+
+[epoch: 151]
+train_loss: 0.4507
+lr: 0.000278
+accuracy: 94.67
+Precision: 91.43
+recall: 93.09
+F1: 90.73
+IoU: ['93.39', '78.36']
+mean IoU: 85.87
+
+[epoch: 152]
+train_loss: 0.4537
+lr: 0.000273
+accuracy: 94.37
+Precision: 90.73
+recall: 92.87
+F1: 90.08
+IoU: ['93.05', '77.13']
+mean IoU: 85.09
+
+[epoch: 153]
+train_loss: 0.4564
+lr: 0.000268
+accuracy: 94.67
+Precision: 91.72
+recall: 92.87
+F1: 90.91
+IoU: ['93.39', '78.54']
+mean IoU: 85.96
+
+[epoch: 154]
+train_loss: 0.4433
+lr: 0.000262
+accuracy: 94.46
+Precision: 91.38
+recall: 92.58
+F1: 90.53
+IoU: ['93.13', '77.75']
+mean IoU: 85.44
+
+[epoch: 155]
+train_loss: 0.4531
+lr: 0.000257
+accuracy: 94.24
+Precision: 91.45
+recall: 91.96
+F1: 90.40
+IoU: ['92.84', '77.18']
+mean IoU: 85.01
+
+[epoch: 156]
+train_loss: 0.4483
+lr: 0.000252
+accuracy: 94.66
+Precision: 91.16
+recall: 93.30
+F1: 90.57
+IoU: ['93.40', '78.19']
+mean IoU: 85.79
+
+[epoch: 157]
+train_loss: 0.4480
+lr: 0.000247
+accuracy: 94.42
+Precision: 91.61
+recall: 92.31
+F1: 90.64
+IoU: ['93.07', '77.77']
+mean IoU: 85.42
+
+[epoch: 158]
+train_loss: 0.4473
+lr: 0.000241
+accuracy: 93.90
+Precision: 91.59
+recall: 91.07
+F1: 90.24
+IoU: ['92.40', '76.38']
+mean IoU: 84.39
+
+[epoch: 159]
+train_loss: 0.4539
+lr: 0.000236
+accuracy: 94.36
+Precision: 90.76
+recall: 92.83
+F1: 90.09
+IoU: ['93.04', '77.13']
+mean IoU: 85.08
+
+[epoch: 160]
+train_loss: 0.4493
+lr: 0.000231
+accuracy: 94.15
+Precision: 91.24
+recall: 91.90
+F1: 90.21
+IoU: ['92.74', '76.82']
+mean IoU: 84.78
+
+[epoch: 161]
+train_loss: 0.4374
+lr: 0.000225
+accuracy: 94.57
+Precision: 92.01
+recall: 92.40
+F1: 91.00
+IoU: ['93.24', '78.42']
+mean IoU: 85.83
+
+[epoch: 162]
+train_loss: 0.4429
+lr: 0.000220
+accuracy: 94.51
+Precision: 91.92
+recall: 92.31
+F1: 90.89
+IoU: ['93.17', '78.19']
+mean IoU: 85.68
+
+[epoch: 163]
+train_loss: 0.4444
+lr: 0.000215
+accuracy: 93.75
+Precision: 91.20
+recall: 90.96
+F1: 89.88
+IoU: ['92.23', '75.75']
+mean IoU: 83.99
+
+[epoch: 164]
+train_loss: 0.4404
+lr: 0.000209
+accuracy: 94.08
+Precision: 90.32
+recall: 92.43
+F1: 89.61
+IoU: ['92.71', '76.10']
+mean IoU: 84.40
+
+[epoch: 165]
+train_loss: 0.4570
+lr: 0.000204
+accuracy: 93.54
+Precision: 90.76
+recall: 90.76
+F1: 89.46
+IoU: ['91.99', '74.96']
+mean IoU: 83.48
+
+[epoch: 166]
+train_loss: 0.4429
+lr: 0.000198
+accuracy: 94.88
+Precision: 91.44
+recall: 93.65
+F1: 90.91
+IoU: ['93.66', '78.96']
+mean IoU: 86.31
+
+[epoch: 167]
+train_loss: 0.4384
+lr: 0.000193
+accuracy: 94.76
+Precision: 91.84
+recall: 93.00
+F1: 91.04
+IoU: ['93.49', '78.84']
+mean IoU: 86.17
+
+[epoch: 168]
+train_loss: 0.4465
+lr: 0.000188
+accuracy: 94.28
+Precision: 91.10
+recall: 92.34
+F1: 90.23
+IoU: ['92.92', '77.09']
+mean IoU: 85.01
+
+[epoch: 169]
+train_loss: 0.4366
+lr: 0.000182
+accuracy: 93.86
+Precision: 91.52
+recall: 91.03
+F1: 90.16
+IoU: ['92.35', '76.23']
+mean IoU: 84.29
+
+[epoch: 170]
+train_loss: 0.4449
+lr: 0.000177
+accuracy: 94.89
+Precision: 91.81
+recall: 93.37
+F1: 91.13
+IoU: ['93.66', '79.20']
+mean IoU: 86.43
+
+[epoch: 171]
+train_loss: 0.4344
+lr: 0.000171
+accuracy: 94.80
+Precision: 91.87
+recall: 93.07
+F1: 91.09
+IoU: ['93.53', '78.97']
+mean IoU: 86.25
+
+[epoch: 172]
+train_loss: 0.4355
+lr: 0.000166
+accuracy: 94.29
+Precision: 91.38
+recall: 92.15
+F1: 90.40
+IoU: ['92.91', '77.28']
+mean IoU: 85.10
+
+[epoch: 173]
+train_loss: 0.4448
+lr: 0.000160
+accuracy: 94.54
+Precision: 91.88
+recall: 92.41
+F1: 90.89
+IoU: ['93.20', '78.24']
+mean IoU: 85.72
+
+[epoch: 174]
+train_loss: 0.4342
+lr: 0.000155
+accuracy: 94.45
+Precision: 90.86
+recall: 92.99
+F1: 90.22
+IoU: ['93.15', '77.43']
+mean IoU: 85.29
+
+[epoch: 175]
+train_loss: 0.4287
+lr: 0.000149
+accuracy: 93.88
+Precision: 91.87
+recall: 90.87
+F1: 90.40
+IoU: ['92.36', '76.49']
+mean IoU: 84.43
+
+[epoch: 176]
+train_loss: 0.4453
+lr: 0.000143
+accuracy: 94.57
+Precision: 91.24
+recall: 92.99
+F1: 90.54
+IoU: ['93.28', '77.98']
+mean IoU: 85.63
+
+[epoch: 177]
+train_loss: 0.4502
+lr: 0.000138
+accuracy: 94.47
+Precision: 92.00
+recall: 92.15
+F1: 90.91
+IoU: ['93.11', '78.12']
+mean IoU: 85.62
+
+[epoch: 178]
+train_loss: 0.4323
+lr: 0.000132
+accuracy: 94.67
+Precision: 91.68
+recall: 92.90
+F1: 90.88
+IoU: ['93.39', '78.51']
+mean IoU: 85.95
+
+[epoch: 179]
+train_loss: 0.4380
+lr: 0.000126
+accuracy: 94.48
+Precision: 91.52
+recall: 92.53
+F1: 90.63
+IoU: ['93.15', '77.89']
+mean IoU: 85.52
+
+[epoch: 180]
+train_loss: 0.4279
+lr: 0.000121
+accuracy: 94.27
+Precision: 91.22
+recall: 92.23
+F1: 90.29
+IoU: ['92.90', '77.15']
+mean IoU: 85.02
+
+[epoch: 181]
+train_loss: 0.4441
+lr: 0.000115
+accuracy: 94.29
+Precision: 90.96
+recall: 92.47
+F1: 90.15
+IoU: ['92.94', '77.04']
+mean IoU: 84.99
+
+[epoch: 182]
+train_loss: 0.4381
+lr: 0.000109
+accuracy: 94.52
+Precision: 91.75
+recall: 92.46
+F1: 90.80
+IoU: ['93.19', '78.12']
+mean IoU: 85.65
+
+[epoch: 183]
+train_loss: 0.4375
+lr: 0.000103
+accuracy: 94.07
+Precision: 91.32
+recall: 91.64
+F1: 90.20
+IoU: ['92.63', '76.66']
+mean IoU: 84.65
+
+[epoch: 184]
+train_loss: 0.4377
+lr: 0.000098
+accuracy: 94.33
+Precision: 91.38
+recall: 92.26
+F1: 90.44
+IoU: ['92.97', '77.41']
+mean IoU: 85.19
+
+[epoch: 185]
+train_loss: 0.4420
+lr: 0.000092
+accuracy: 94.62
+Precision: 91.09
+recall: 93.24
+F1: 90.49
+IoU: ['93.35', '78.02']
+mean IoU: 85.68
+
+[epoch: 186]
+train_loss: 0.4205
+lr: 0.000086
+accuracy: 94.46
+Precision: 91.15
+recall: 92.76
+F1: 90.40
+IoU: ['93.14', '77.61']
+mean IoU: 85.38
+
+[epoch: 187]
+train_loss: 0.4455
+lr: 0.000080
+accuracy: 95.01
+Precision: 91.94
+recall: 93.58
+F1: 91.31
+IoU: ['93.81', '79.62']
+mean IoU: 86.71
+
+[epoch: 188]
+train_loss: 0.4310
+lr: 0.000074
+accuracy: 94.83
+Precision: 92.15
+recall: 92.93
+F1: 91.28
+IoU: ['93.56', '79.20']
+mean IoU: 86.38
+
+[epoch: 189]
+train_loss: 0.4368
+lr: 0.000068
+accuracy: 94.64
+Precision: 91.21
+recall: 93.19
+F1: 90.58
+IoU: ['93.36', '78.14']
+mean IoU: 85.75
+
+[epoch: 190]
+train_loss: 0.4374
+lr: 0.000062
+accuracy: 94.48
+Precision: 91.61
+recall: 92.46
+F1: 90.69
+IoU: ['93.15', '77.95']
+mean IoU: 85.55
+
+[epoch: 191]
+train_loss: 0.4294
+lr: 0.000055
+accuracy: 94.55
+Precision: 91.91
+recall: 92.41
+F1: 90.92
+IoU: ['93.22', '78.30']
+mean IoU: 85.76
+
+[epoch: 192]
+train_loss: 0.4251
+lr: 0.000049
+accuracy: 94.48
+Precision: 91.37
+recall: 92.65
+F1: 90.54
+IoU: ['93.16', '77.80']
+mean IoU: 85.48
+
+[epoch: 193]
+train_loss: 0.4346
+lr: 0.000043
+accuracy: 94.62
+Precision: 91.72
+recall: 92.73
+F1: 90.86
+IoU: ['93.32', '78.39']
+mean IoU: 85.85
+
+[epoch: 194]
+train_loss: 0.4455
+lr: 0.000036
+accuracy: 94.71
+Precision: 91.62
+recall: 93.05
+F1: 90.87
+IoU: ['93.44', '78.58']
+mean IoU: 86.01
+
+[epoch: 195]
+train_loss: 0.4310
+lr: 0.000030
+accuracy: 94.51
+Precision: 91.09
+recall: 92.95
+F1: 90.41
+IoU: ['93.21', '77.73']
+mean IoU: 85.47
+
+[epoch: 196]
+train_loss: 0.4239
+lr: 0.000023
+accuracy: 94.56
+Precision: 91.72
+recall: 92.59
+F1: 90.82
+IoU: ['93.24', '78.22']
+mean IoU: 85.73
+
+[epoch: 197]
+train_loss: 0.4270
+lr: 0.000016
+accuracy: 94.68
+Precision: 91.78
+recall: 92.83
+F1: 90.94
+IoU: ['93.39', '78.58']
+mean IoU: 85.98
+
+[epoch: 198]
+train_loss: 0.4267
+lr: 0.000009
+accuracy: 94.43
+Precision: 91.00
+recall: 92.79
+F1: 90.28
+IoU: ['93.11', '77.44']
+mean IoU: 85.27
+
+[epoch: 199]
+train_loss: 0.4349
+lr: 0.000000
+accuracy: 94.29
+Precision: 91.19
+recall: 92.29
+F1: 90.28
+IoU: ['92.92', '77.16']
+mean IoU: 85.04
+
