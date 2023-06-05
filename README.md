@@ -8,3 +8,8 @@ The data Vaihingen set contains 33 patches (of different sizes), each consisting
 The data Potsdam set contains 38 patches (of the same size), each consisting of a true orthophoto (TOP) extracted from a larger TOP mosaic, see Figure below and a DSM. 
 ### Data preparation
 After downloading the data set from the official website, split it according to the size of 520*520, and divide it into training set, verification set and test set according to 8:1:1.
+Data image             |  Data label
+:-------------------------:|:-------------------------:
+<img src="https://github.com/zhaowqiu/MFF-Net/blob/main/pic/1.png" width="300" height="300" alt="数据集"/><br/>  |  <img src="https://github.com/zhaowqiu/MFF-Net/blob/main/pic/2.png" width="300" height="300" alt="数据集"/><br/>
+## Environment
+Environment configuration reference requirements.txt file
