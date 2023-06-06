@@ -14,12 +14,17 @@ Data image             |  Data label
 ``torch==1.10.0  torchvision==0.11.1``  
 Environment configuration reference [requirements.txt](https://github.com/zhaowqiu/MFF-Net/blob/main/requirements.txt) file.
 ## Training
-Download pretrained weights [resnet50.pt]()  Run [train.py](https://github.com/zhaowqiu/MFF-Net/blob/main/train.py) after modifying the pre-training weight path.
-  Log files are saved in the log folder
+Download pretrained weights [resnet50.pt]().  
+  Run [train.py](https://github.com/zhaowqiu/MFF-Net/blob/main/train.py) after modifying the pre-training weight path.  
+    Log files are saved in the log folder.
 ## Verification
 Modify the test set path of the [vaildation.py](https://github.com/zhaowqiu/MFF-Net/blob/main/validation.py) file to test the performance of the trained model.  Modify the trained model file path
 ## src
-This folder is used to store the network structure files used in the project. These files contain code that defines a machine learning or deep learning model, such as the architecture of a neural network, layer definitions, model configuration, and more. You can put these network structure files in the src directory for easy project use and management.  [backbone.py](https://github.com/zhaowqiu/MFF-Net/blob/main/src/backbone.py)resnet backbone network.  [mobilenet-backbone.py](https://github.com/zhaowqiu/MFF-Net/blob/main/src/mobilenet-backbone.py)mobilenetv2 backbone network.  [cbamblock.py](https://github.com/zhaowqiu/MFF-Net/blob/main/src/cbamblock.py)attention mechanism module.  .................
+This folder is used to store the network structure files used in the project. These files contain code that defines a machine learning or deep learning model, such as the architecture of a neural network, layer definitions, model configuration, and more. You can put these network structure files in the src directory for easy project use and management.
+- [backbone.py](https://github.com/zhaowqiu/MFF-Net/blob/main/src/backbone.py) resnet backbone network.
+- [mobilenet-backbone.py](https://github.com/zhaowqiu/MFF-Net/blob/main/src/mobilenet-backbone.py) mobilenetv2 backbone network.  
+- [cbamblock.py](https://github.com/zhaowqiu/MFF-Net/blob/main/src/cbamblock.py) attention mechanism module.  
+- .................
 ## save_weights
 This folder is used to hold the model files used in the project. These files contain trained machine learning models, pretrained models, or other related model files. You can put these model files in the src directory for easy project use and management.
 ## train_utils
@@ -57,7 +62,11 @@ The heat map results are saved in the `heatmap` folder.
 <img src="https://github.com/zhaowqiu/MFF-Net/blob/main/heatmap/cbam_cbam1.png" width="100" height="100" alt="relitu"/>             |  <img src="https://github.com/zhaowqiu/MFF-Net/blob/main/heatmap/cbam_cbam2.png" width="100" height="100" alt="relitu"/>
 :-------------------------:|:-------------------------:
 <img src="https://github.com/zhaowqiu/MFF-Net/blob/main/heatmap/cbam_cbam3.png" width="100" height="100" alt="relitu"/>  |  <img src="https://github.com/zhaowqiu/MFF-Net/blob/main/heatmap/cbam_cbam4.png" width="100" height="100" alt="relitu"/>
+ 
+ 
+ ## We will improve the code for more details in the future........
   
   ------------------------------------------------------------------
   ## Acknowledgement
   Thanks ISPRS Community for providing data support.  Thanks to [WZMIAOMIAO](https://github.com/WZMIAOMIAO) for providing code support.  and thanks to others who contributed to this work and the community
+
