@@ -21,9 +21,11 @@ Download pretrained weights [resnet50.pt]().
 Modify the test set path of the [vaildation.py](https://github.com/zhaowqiu/MFF-Net/blob/main/validation.py) file to test the performance of the trained model.  Modify the trained model file path
 ## src
 This folder is used to store the network structure files used in the project. These files contain code that defines a machine learning or deep learning model, such as the architecture of a neural network, layer definitions, model configuration, and more. You can put these network structure files in the src directory for easy project use and management.
+- [mffnet.py](https://github.com/zhaowqiu/MFF-Net/blob/main/src/mffnet.py) MFF-Net network structure.
 - [backbone.py](https://github.com/zhaowqiu/MFF-Net/blob/main/src/backbone.py) resnet backbone network.
 - [mobilenet-backbone.py](https://github.com/zhaowqiu/MFF-Net/blob/main/src/mobilenet-backbone.py) mobilenetv2 backbone network.  
-- [cbamblock.py](https://github.com/zhaowqiu/MFF-Net/blob/main/src/cbamblock.py) attention mechanism module.  
+- [cbamblock.py](https://github.com/zhaowqiu/MFF-Net/blob/main/src/cbamblock.py) attention mechanism module.
+- [ParallelConv2d.py](https://github.com/zhaowqiu/MFF-Net/blob/main/src/ParallelConv2d.py) Dual channel mask module.
 - .................
 ## save_weights
 This folder is used to hold the model files used in the project. These files contain trained machine learning models, pretrained models, or other related model files. You can put these model files in the src directory for easy project use and management.
